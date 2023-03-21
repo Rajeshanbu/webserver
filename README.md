@@ -61,7 +61,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![webserver](https://user-images.githubusercontent.com/118924713/226552197-35996dc2-ad07-42fe-ae48-6ebc0d71c24d.png)
+![webserver](webserver..png)
 
 
 ## RESULT:
